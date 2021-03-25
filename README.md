@@ -6,11 +6,11 @@
 ### cut out<br>
 ![](https://github.com/jieli18/projects_participated/blob/main/cut_out.gif)<br>
 ### circular tracking<br>
-![](https://github.com/jieli18/projects_participated/blob/main/circular_tracking.gif)<br>
+![](https://github.com/jieli18/projects_participated/blob/main/circular_tracking.gif)<br><br>
 
 ## Road-Vehicle-Cloud Cooperative Control Technology
 ### turn right<br>
-![](https://github.com/jieli18/projects_participated/blob/main/turn_right.gif)<br>
+![](https://github.com/jieli18/projects_participated/blob/main/turn_right.gif)<br><br>
 
 ## Development and Deployment of Motion Control Algorithm with Domain Controller
 ### car following at a variable speed<br>
@@ -18,4 +18,4 @@
 ### double line change<br>
 ![](https://github.com/jieli18/projects_participated/blob/main/HIL_double_shift_line.gif)<br>
 ### turn left<br>
-![](https://github.com/jieli18/projects_participated/blob/main/HIL_turn_left.gif)<br>
+![](https://github.com/jieli18/projects_participated/blob/main/HIL_turn_left.gif)<br><br>
