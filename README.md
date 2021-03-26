@@ -5,7 +5,7 @@
 ![](https://github.com/jieli18/projects_participated/blob/main/cooperative_line_change.gif)<br>
 ### cut out<br>
 ![](https://github.com/jieli18/projects_participated/blob/main/cut_out.gif)<br>
-### circular tracking (2x playing speed)<br>
+### circular tracking<br>
 ![](https://github.com/jieli18/projects_participated/blob/main/circular_tracking_2x.gif)<br><br>
 
 ## Road-Vehicle-Cloud Cooperative Control Technology
